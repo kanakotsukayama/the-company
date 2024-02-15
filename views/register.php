@@ -41,7 +41,8 @@
 
                         <button type="submit" class="btn btn-success w-100">Register</button>
                     </form>
-                    <p class="gtext-center mt-3 small">Registered already? <a href="/..views"></a></p>
+                    <p class="gtext-center mt-3 small bg-dark text-white">Registered already? <a href="/..views"></a></p>
+                    <p class="text-center mt-1">Copyright Kredo 2024</p>
                 </div>
             </div>
         </div>
